@@ -45,6 +45,6 @@ Our analysis of Starbucks’ customer, offer, and transaction data shows that bo
 
 Customer segmentation revealed distinct clusters that respond differently to channel strategies and offer designs, reinforcing the need for targeted marketing rather than a one-size-fits-all approach. Predictive models (GLM, SVM) demonstrated strong performance, with interpretable baselines and more flexible nonlinear classifiers both adding value.
 
-Overall takeaway: Starbucks can improve campaign efficiency and customer satisfaction by tailoring offers to segment needs, leveraging the right channel combinations, and applying predictive modeling to guide targeting decisions.
+Overall takeaway is that, Starbucks can improve campaign efficiency and customer satisfaction by tailoring offers to segment needs, leveraging the right channel combinations, and applying predictive modeling to guide targeting decisions.
 
 
